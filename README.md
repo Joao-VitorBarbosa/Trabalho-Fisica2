@@ -1,6 +1,3 @@
-# Trabalho-Fisica2
-Trabalho de física do 2 bimestre.
-
 # ⚡ Calculadora de Campo Elétrico - Java Swing
 Este projeto em Java foi desenvolvido como um exercício baseado em um problema do livro de Física é uma calculadora gráfica feita em Java utilizando a biblioteca Swing , com o objetivo de auxiliar no cálculo do campo elétrico resultante.
 
